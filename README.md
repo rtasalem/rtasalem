@@ -2,4 +2,4 @@
 - 👩🏽‍💻 I'm currently training as a software developer @ FDM Group.
 - 🌱 At the moment I'm learning Java (OOD, Spring Framework etc.), SQL, Unix, HTML, CSS, React, and Angular.
 - 👩🏽‍🎓 I graduated with a Master's degree in forensic science and have research experience in textile conservation.
-- 📫 If you want to have a chat, my email address ranatasalem@gmail.com.
+- 📫 If you want to get in touch, send me an email: ranatasalem@gmail.com.
