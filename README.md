@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rana
+- 👋🏽 Hi, I’m Rana
 - 👩🏽‍💻 I'm currently training as a software developer @ FDM Group.
 - 🌱 At the moment I'm learning Java (OOD, Spring Framework etc.), SQL, Unix, HTML, CSS, and React.
 - 👩🏽‍🎓 I graduated with a Master's degree in forensic science and have research experience in textile conservation.
