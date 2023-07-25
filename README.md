@@ -2,4 +2,4 @@
 - 👩🏽‍💻 Recently obtained a Tech Industry Gold Credential in Software Development from FDM Group (where I work as a software developer).
 - 🌱 At the moment I'm learning Java (OOD, Spring Framework etc.), SQL, Unix, HTML, CSS, and React.
 - 👩🏽‍🎓 I graduated with a Master's degree in forensic science and have research experience in textile conservation.
-- 📫 If you want to get in touch, send me an [email](ranatasalem@gmail.com) or reach out on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
+- 📫 If you want to get in touch, send me an [email](ranatasalem@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
