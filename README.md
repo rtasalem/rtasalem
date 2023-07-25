@@ -5,4 +5,4 @@
 - 👩🏽‍🎓 I graduated with a Master's degree in forensic science and have research experience in textile conservation.
 - 📫 If you want to get in touch, send me an [email](ranatasalem@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=date_night&layout=compact)
