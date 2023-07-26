@@ -1,3 +1,4 @@
+![github-cover-image](https://github.com/rtasalem/rtasalem/assets/127218837/78205206-f5cc-4fb9-a875-1942d41faf1d)
 ## About Me
 - 👋🏽 Hi, I’m Rana
 - 👩🏽‍💻 Recently obtained a Tech Industry Gold Foundation Credential in Software Development from FDM Group (where I currently work as a software developer).
