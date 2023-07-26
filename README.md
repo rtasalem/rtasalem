@@ -7,4 +7,5 @@
 ## Get In Touch
 If you want to get in touch send me an [email](ranatasalem@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
 ## GitHub Stats
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rtasalem&theme=shadow_blue&repo=barbie-ecommerce-website)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=shadow_blue&layout=compact)
