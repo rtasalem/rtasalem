@@ -6,7 +6,7 @@
 - 👩🏽‍🎓 I graduated with a Master's degree in forensic science and have research experience in textile conservation.
 ## Get In Touch
 If you want to get in touch send me an [email](ranatasalem@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
-## GitHub Stats
+## GitHub Stats & Pinned Repositories
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=shadow_blue&layout=compact" />
 </a>
