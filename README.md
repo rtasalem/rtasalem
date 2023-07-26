@@ -8,8 +8,8 @@
 If you want to get in touch send me an [email](ranatasalem@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
 ## GitHub Stats & Pinned Repositories
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=shadow_blue&layout=compact" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=shadow_blue&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rtasalem&theme=shadow_blue&repo=barbie-ecommerce-website" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rtasalem&theme=shadow_blue&repo=barbie-ecommerce-website" />
 </a>
