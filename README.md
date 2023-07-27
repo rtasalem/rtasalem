@@ -10,6 +10,6 @@ If you want to get in touch send me an [email](ranatasalem@gmail.com) or connect
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=shadow_blue&layout=compact" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/rtasalem/barbie-ecommerce-website">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rtasalem&theme=shadow_blue&repo=barbie-ecommerce-website" />
 </a>
