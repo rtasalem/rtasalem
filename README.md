@@ -6,10 +6,7 @@
 - 👩🏽‍🎓 I graduated with a Master's degree in forensic science and have research experience in textile conservation.
 ## Get In Touch
 If you want to get in touch send me an [email](ranatasalem@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
-## GitHub Stats & Pinned Repositories
+## GitHub Stats
 <a href="https://github.com/rtasalem?tab=repositories">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=shadow_blue&layout=compact" />
-</a>
-<a href="https://github.com/rtasalem/barbie-ecommerce-website">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rtasalem&theme=shadow_blue&repo=barbie-ecommerce-website" />
+  <img height=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=shadow_blue&layout=compact" />
 </a>
