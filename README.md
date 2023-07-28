@@ -8,5 +8,5 @@
 If you want to get in touch send me an [email](ranatasalem@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
 ## GitHub Stats
 <a href="https://github.com/rtasalem?tab=repositories">
-  <img height=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=shadow_blue&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=shadow_blue&layout=compact" />
 </a>
