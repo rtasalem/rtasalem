@@ -7,7 +7,7 @@
 ## Get In Touch
 If you want to get in touch send me an [email](ranatasalem@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
 ## GitHub Stats & Pinned Repositories
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/rtasalem?tab=repositories">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=shadow_blue&layout=compact" />
 </a>
 <a href="https://github.com/rtasalem/barbie-ecommerce-website">
