@@ -7,6 +7,8 @@
 - 🌱 Currently learning Java (OOD, Spring Framework etc.), SQL, Unix, HTML, CSS, JavaScript, and React.
 ## Get In Touch
 If you want to get in touch send me an [email](ranatasalem@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
+## CV
+For more details on my previous work and research experience, you can [have a look at my CV](https://github.com/rtasalem/rtasalem/files/12364212/RANA_T._A._SALEM_CURRICULUM_VITAE.pdf).
 ## GitHub Stats
 <a href="https://github.com/rtasalem?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=shadow_blue&layout=compact" />
