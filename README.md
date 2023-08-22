@@ -4,8 +4,7 @@
 - 🚀 Aspiring full-stack developer (with an interest in games development).
 - 👩🏽‍💻 Recently obtained a Tech Industry Gold Foundation Credential in Software Development from FDM Group (where I currently work as a software developer).
 - 👩🏽‍🎓 Graduated with a Master's degree in forensic science and have research experience in textile conservation.
-- 🌱 Currently learning Java (OOD, Spring Framework etc.), SQL, Unix, HTML, CSS, JavaScript, and React.
-- ☁️ I'm also working towards the Microsoft Azure Fundamentals Certification to extend my skills into cloud computing.
+- ☁️ I'm currently working towards the Microsoft Azure Fundamentals Certification to extend my skills into cloud computing.
 ## Get In Touch
 If you want to get in touch send me an [email](ranatasalem@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
 ## GitHub Stats
