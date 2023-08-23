@@ -7,9 +7,7 @@
 - ☁️ I'm currently working towards the Microsoft Azure Fundamentals Certification to extend my skills into cloud computing.
 ## Get In Touch
 If you want to get in touch send me an [email](ranatasalem@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
-## Certifications
-[Credly Profile](https://www.credly.com/users/rana-salem.c96f78f5)
-
+## [Certifications](https://www.credly.com/users/rana-salem.c96f78f5)
 ![software-development-foundation](https://github.com/rtasalem/rtasalem/assets/127218837/7ee0ce69-650e-4663-8864-25e2a2adabe0)
 ## GitHub Stats
 <a href="https://github.com/rtasalem?tab=repositories">
