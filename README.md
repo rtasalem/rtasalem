@@ -1,7 +1,7 @@
 ![github-cover-image](https://github.com/rtasalem/rtasalem/assets/127218837/78205206-f5cc-4fb9-a875-1942d41faf1d)
 ## About Me
 - 👋🏽 Hi, I’m Rana
-- 🚀 Aspiring full-stack developer (with an interest in games development).
+- 🚀 Aspiring full-stack developer (with an interest in games development and cloud computing).
 - 👩🏽‍💻 Recently obtained a Tech Industry Gold Foundation Credential in Software Development from FDM Group (where I currently work as a software developer).
 - 👩🏽‍🎓 Graduated with a Master's degree in forensic science and have research experience in textile conservation.
 - ☁️ I'm currently working towards the Microsoft Azure Fundamentals Certification to extend my skills into cloud computing.
