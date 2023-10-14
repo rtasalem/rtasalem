@@ -1,4 +1,4 @@
-![github-cover-image](https://github.com/rtasalem/rtasalem/assets/127218837/78205206-f5cc-4fb9-a875-1942d41faf1d)
+[github-cover-image](https://github.com/rtasalem/rtasalem/assets/127218837/78205206-f5cc-4fb9-a875-1942d41faf1d)
 ## About Me
 - 👋🏽 Hi, I’m Rana
 - 🚀 I'm a full-stack developer (with an interest in games development).
@@ -13,3 +13,4 @@ If you want to get in touch send me an [email](ranatasalem@gmail.com) or connect
 
 ## [Certifications](https://www.credly.com/users/rana-salem.c96f78f5)
 ![software-development-foundation](https://github.com/rtasalem/rtasalem/assets/127218837/7ee0ce69-650e-4663-8864-25e2a2adabe0)
+![microsoft-azure-fundamentals-badge](https://github.com/rtasalem/rtasalem/assets/127218837/7821eb3f-b503-47ae-a657-c30634669af5)
