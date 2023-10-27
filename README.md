@@ -1,7 +1,7 @@
 ![github-cover-image](https://github.com/rtasalem/rtasalem/assets/127218837/78205206-f5cc-4fb9-a875-1942d41faf1d)
 ## About Me
 - 👋🏽 Hi, I’m Rana
-- 👩🏽‍💻 I'm a full-stack developer.
+- 👩🏽‍💻 I'm a full-stack developer with interests in web development, Spring Boot applications, and games development.
 - 👩🏽‍🎓 Graduated with a Master's degree in forensic science and have research experience in textile conservation.
 ## Get In Touch
 If you want to get in touch send me an [email](ranatasalem@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
