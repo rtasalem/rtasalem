@@ -2,6 +2,7 @@
 ## About Me
 - 👋🏽 Hi, I’m Rana
 - 👩🏽‍💻 I'm a full-stack developer with interests in web development, Spring Boot applications, and games development.
+- 🧠 Currently learning Node.js, Jest, PostgreSQL, Docker, Kubernetes, and Azure.
 - 👩🏽‍🎓 Graduated with a Master's degree in forensic science and have research experience in textile conservation.
 ## Get In Touch
 If you want to get in touch send me an [email](ranatasalem@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
