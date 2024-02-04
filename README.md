@@ -1,4 +1,4 @@
-![GitHub Cover Image](https://github.com/rtasalem/rtasalem/assets/127218837/48f83f57-5df2-41b1-92cc-d2810095dcaf)
+![GitHub Cover Image](https://github.com/rtasalem/rtasalem/assets/127218837/96875a46-26f4-4806-bc42-08de81c0884e)
 
 ## About Me
 - 👋🏽 Hi, I'm Rana
