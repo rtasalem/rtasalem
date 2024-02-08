@@ -1,11 +1,11 @@
 ![GitHub Cover Image](https://github.com/rtasalem/rtasalem/assets/127218837/96875a46-26f4-4806-bc42-08de81c0884e)
 
 ## About Me
-- 👋🏽 Hi, I'm Rana
-- 💻 Software developer with interests in web development, Spring Boot applications, and APIs.
-- 👩🏽‍💻 IT Consultant at [FDM Group](https://www.fdmgroup.com/) & Junior Software Developer at [DEFRA](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs).
-- 🧠 These days I'm learning Node.js, GraphQL, Docker, Azure, and Kubernetes.
-- 🛠️ Currently building my own personal website using Next.js & Tailwind CSS.
+👋🏽 Hi, I'm Rana  
+💻 Software developer with interests in web development, Spring Boot applications, and APIs.
+👩🏽‍💻 IT Consultant at [FDM Group](https://www.fdmgroup.com/) & Junior Software Developer at [DEFRA](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs).  
+🧠 These days I'm learning Node.js, GraphQL, Docker, Azure, and Kubernetes.   
+🛠️ Currently building my own personal website using Next.js & Tailwind CSS.  
 ## Get In Touch
 💬 If you want to get in touch send me an [email](ranatasalem@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
 ## GitHub Stats
