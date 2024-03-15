@@ -1,6 +1,4 @@
 
-![GitHub README Cover](https://github.com/rtasalem/rtasalem/assets/127218837/75875443-a025-44bd-ba15-bd2d13ded632)
-
 ## About Me
 💻 Software developer with interests in web development, Spring Boot applications, and APIs.  
 👩🏽‍💻 IT Consultant at [FDM Group](https://www.fdmgroup.com/) & Junior Software Developer at [DEFRA](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs).  
