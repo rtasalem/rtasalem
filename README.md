@@ -8,10 +8,10 @@
 💬 If you want to get in touch send me an [email](ranatasalem@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
 ## GitHub Stats
 <a href="https://github.com/rtasalem?tab=repositories">
-  <img height=217 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=shadow_green&layout=compact" />
+  <img height=217 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=onedark&layout=compact" />
 </a>
 <a href="https://github.com/rtasalem">
-  <img height=217 align="center" src="https://github-readme-stats.vercel.app/api?username=rtasalem&theme=shadow_red&layout=compact&show=reviews,prs_merged&hide=issues" />
+  <img height=217 align="center" src="https://github-readme-stats.vercel.app/api?username=rtasalem&theme=gruvbox&layout=compact&show=reviews,prs_merged&hide=issues" />
 </a>
 
 ## Certifications
