@@ -11,7 +11,7 @@
   <img height=217 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=onedark&layout=compact" />
 </a>
 <a href="https://github.com/rtasalem">
-  <img height=217 align="center" src="https://github-readme-stats.vercel.app/api?username=rtasalem&theme=gruvbox&layout=compact&show=reviews,prs_merged&hide=issues" />
+  <img height=217 align="center" src="https://github-readme-stats.vercel.app/api?username=rtasalem&theme=onedark&layout=compact&show=reviews,prs_merged&hide=issues" />
 </a>
 
 ## Certifications
