@@ -5,7 +5,7 @@
 🧠 Currently learning Node.js, PostgreSQL, GraphQL, Docker, Azure, and Kubernetes.  
 🛠️ Building my own personal website using Next.js & Tailwind CSS.  
 ## Get In Touch
-💬 If you want to get in touch send me an [email](ranatasalem@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
+💬 If you want to get in touch feel free to connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
 ## GitHub Stats
 <a href="https://github.com/rtasalem?tab=repositories">
   <img height=217 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=onedark&layout=compact" />
