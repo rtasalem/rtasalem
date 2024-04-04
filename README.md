@@ -1,7 +1,7 @@
 
 ## About Me
 💻 Software developer with interests in web development, Spring Boot applications, and APIs.  
-👩🏽‍💻 IT Consultant at [FDM Group](https://www.fdmgroup.com/) & Junior Software Developer at [DEFRA](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs).  
+👩🏽‍💻 IT Consultant at [FDM Group](https://www.fdmgroup.com/) & Junior Software Developer at [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs).  
 🧠 Currently learning Node.js, PostgreSQL, GraphQL, Docker, Azure, and Kubernetes.  
 🛠️ Building my own personal website using Next.js & Tailwind CSS.  
 ## Get In Touch
