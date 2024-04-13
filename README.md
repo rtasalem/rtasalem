@@ -1,3 +1,4 @@
+![GitHub README Cover](https://github.com/rtasalem/rtasalem/assets/127218837/d4792442-dfc1-4b94-bb69-8652527363c7)
 
 ## About Me
 💻 Software developer with interests in web development, Spring Boot applications, and APIs.  
