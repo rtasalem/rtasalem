@@ -1,7 +1,7 @@
 ![GitHub README Cover](https://github.com/rtasalem/rtasalem/assets/127218837/d4792442-dfc1-4b94-bb69-8652527363c7)
 
 ## About Me
-💻 Software developer.  
+💻 Software developer with interests in web development, APIs, and databases.  
 👩🏽‍💻 IT Consultant at [FDM Group](https://www.fdmgroup.com/) & Junior Software Developer at [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs).  
 🧠 Currently learning Node.js, PostgreSQL, GraphQL, Docker, Azure, and Kubernetes.  
 🛠️ Building my own personal website using Next.js & Tailwind CSS.  
