@@ -1,5 +1,5 @@
 ## About Me
-💻 Software developer with interests in web development, APIs, databases and 3D programming.  
+💻 Software developer with interests in web development, APIs, databases, and 3D programming.  
 👩🏽‍💻 IT Consultant at [FDM Group](https://www.fdmgroup.com/) & Junior Software Developer at [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs).  
 🧠 Current tech stack: Node.js, PostgreSQL, GraphQL, Docker, Azure, and Kubernetes.  
 🛠️ Building my own portfolio website.  
