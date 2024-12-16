@@ -7,10 +7,10 @@
 💬 If you want to get in touch feel free to connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
 ## GitHub Stats
 <a href="https://github.com/rtasalem?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=shadow_red&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=transparent&layout=compact" />
 </a>
 <a href="https://github.com/rtasalem">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rtasalem&show_icons=true&theme=shadow_red&layout=compact&show=reviews,prs_merged&hide=issues" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rtasalem&show_icons=true&theme=transparent&layout=compact&show=reviews,prs_merged&hide=issues" />
 </a>
 
 ## Tech Stack
@@ -20,8 +20,6 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,matplotlib,pycharm,threejs,vite,ts,nextjs,vercel,tailwind,daisyui,vim&titles=false)
 
 ## Certifications
-<!-- ![software-development-foundation](https://github.com/rtasalem/rtasalem/assets/127218837/7ee0ce69-650e-4663-8864-25e2a2adabe0)
-![microsoft-azure-fundamentals-badge](https://github.com/rtasalem/rtasalem/assets/127218837/7821eb3f-b503-47ae-a657-c30634669af5) -->
 <img src="https://github.com/rtasalem/rtasalem/assets/127218837/7ee0ce69-650e-4663-8864-25e2a2adabe0" alt="Software Development Foundation" style="width: auto; height: 110px;">
 <img src="https://github.com/rtasalem/rtasalem/assets/127218837/7821eb3f-b503-47ae-a657-c30634669af5" alt="Microsoft Azure Fundamentals Badge" style="width: auto; height: 130px;">
 
