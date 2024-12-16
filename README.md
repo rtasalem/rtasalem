@@ -17,7 +17,7 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,npm,jest,java,maven,spring,graphql,postgres,azure,kubernetes,docker,jenkins,html,css,js,react,bootstrap,vscode,github,git,postman,eclipse,jupyter,helm)
 ## Stuff I'm Learning
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,matplotlib,pycharm,threejs,vite,ts,nextjs,vercel,tailwind,vim,daisyui&titles=false)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,matplotlib,pycharm,threejs,vite,ts,nextjs,vercel,tailwind,daisyui,vim&titles=false)
 
 ## Certifications
 <!-- ![software-development-foundation](https://github.com/rtasalem/rtasalem/assets/127218837/7ee0ce69-650e-4663-8864-25e2a2adabe0)
