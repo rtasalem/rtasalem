@@ -3,15 +3,21 @@
 👩🏽‍💻 IT Consultant at [FDM Group](https://www.fdmgroup.com/) & Software Developer at [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs).  
 🧠 Current tech stack: Node.js, PostgreSQL, GraphQL, Docker, Azure, and Kubernetes.  
 🛠️ Building my own portfolio website using Next.js & Tailwind CSS.  
-## Get In Touch
+#### Get In Touch
 💬 If you want to get in touch feel free to connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
 ## GitHub Stats
 <a href="https://github.com/rtasalem?tab=repositories">
-  <img height=212 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=aura&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=shadow_red&layout=compact" />
 </a>
 <a href="https://github.com/rtasalem">
-  <img height=212 align="center" src="https://github-readme-stats.vercel.app/api?username=rtasalem&show_icons=true&theme=aura&layout=compact&show=reviews,prs_merged&hide=issues" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rtasalem&show_icons=true&theme=shadow_red&layout=compact&show=reviews,prs_merged&hide=issues" />
 </a>
+
+## Tech Stack
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,npm,jest,java,maven,spring,graphql,postgres,azure,kubernetes,docker,jenkins,html,css,js,react,bootstrap,vscode,github,git,postman,eclipse,jupyter,helm)
+## Stuff I'm Learning
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,matplotlib,pycharm,threejs,vite,ts,nextjs,vercel,tailwind,vim,daisyui&titles=false)
 
 ## Certifications
 ![software-development-foundation](https://github.com/rtasalem/rtasalem/assets/127218837/7ee0ce69-650e-4663-8864-25e2a2adabe0)
