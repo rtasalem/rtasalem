@@ -22,6 +22,6 @@
 ## Certifications
 <!-- ![software-development-foundation](https://github.com/rtasalem/rtasalem/assets/127218837/7ee0ce69-650e-4663-8864-25e2a2adabe0)
 ![microsoft-azure-fundamentals-badge](https://github.com/rtasalem/rtasalem/assets/127218837/7821eb3f-b503-47ae-a657-c30634669af5) -->
-<img src="https://github.com/rtasalem/rtasalem/assets/127218837/7ee0ce69-650e-4663-8864-25e2a2adabe0" alt="Software Development Foundation" style="width: auto; height: 130px;">
-<img src="https://github.com/rtasalem/rtasalem/assets/127218837/7821eb3f-b503-47ae-a657-c30634669af5" alt="Microsoft Azure Fundamentals Badge" style="width: auto; height: 150px;">
+<img src="https://github.com/rtasalem/rtasalem/assets/127218837/7ee0ce69-650e-4663-8864-25e2a2adabe0" alt="Software Development Foundation" style="width: auto; height: 110px;">
+<img src="https://github.com/rtasalem/rtasalem/assets/127218837/7821eb3f-b503-47ae-a657-c30634669af5" alt="Microsoft Azure Fundamentals Badge" style="width: auto; height: 130px;">
 
