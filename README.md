@@ -7,10 +7,10 @@
 💬 If you want to get in touch feel free to connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
 ## GitHub Stats
 <a href="https://github.com/rtasalem?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=transparent&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=holi&layout=compact" />
 </a>
 <a href="https://github.com/rtasalem">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rtasalem&show_icons=true&theme=transparent&layout=compact&show=reviews,prs_merged&hide=issues" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rtasalem&show_icons=true&theme=holi&layout=compact&show=reviews,prs_merged&hide=issues" />
 </a>
 
 ## Tech Stack
