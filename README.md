@@ -15,7 +15,7 @@
 
 ## Tech Stack
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,js,express,npm,jest,react,bootstrap,java,maven,spring,eclipse,graphql,postgres,azure,jenkins,helm,kubernetes,docker,vscode,github,git,postman,jupyter&perline=10)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,js,express,npm,jest,react,bootstrap,nunjucks,java,maven,spring,eclipse,graphql,postgres,azure,jenkins,helm,kubernetes,docker,vscode,github,git,postman,jupyter&perline=10)
 ## Stuff I'm Learning
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,matplotlib,pycharm,threejs,vite,ts,nextjs,vercel,tailwind,daisyui,bulma,vim&perline=10)
 
