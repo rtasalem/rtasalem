@@ -2,7 +2,7 @@
 🥞 Software developer (full-stack) with interests in web development, APIs, databases, and 3D programming.  
 👩🏽‍💻 IT Consultant at [FDM Group](https://www.fdmgroup.com/) & Software Developer at [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs).  
 🧠 Current tech stack: Node.js, PostgreSQL, GraphQL, Docker, Azure, and Kubernetes.  
-🛠️ Building my own portfolio website using Next.js & Tailwind CSS.  
+🛠️ Building my own portfolio website using Next.js.  
 ### Get In Touch
 💬 If you want to get in touch feel free to connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
 ## GitHub Stats
@@ -17,7 +17,7 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,js,express,npm,jest,react,bootstrap,nunjucks,java,maven,spring,eclipse,graphql,postgres,azure,jenkins,helm,kubernetes,docker,vscode,github,git,postman,jupyter&perline=10)
 ## Stuff I'm Learning
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,matplotlib,pycharm,threejs,vite,ts,nextjs,vercel,tailwind,daisyui,bulma,vim&perline=10)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=threejs,ts,nextjs,vercel,tailwind,daisyui,bulma&perline=10)
 
 ## Certifications
 <img src="https://github.com/rtasalem/rtasalem/assets/127218837/7ee0ce69-650e-4663-8864-25e2a2adabe0" alt="Software Development Foundation" style="width: auto; height: 110px;">
