@@ -1,5 +1,5 @@
 ## About Me
-🥞 Full-stack software developer interested in self-hosting/homelabbing, DevOps, web development, and contributing to/developing open-source projects.  
+🥞 Full-stack software developer interested in self-hosting/homelabbing, DevOps, web development, and open-source projects.  
 👩🏽‍💻 IT Consultant at [FDM Group](https://www.fdmgroup.com/) & Software Developer at [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs).  
 🧠 Current tech stack: Node.js, PostgreSQL, GraphQL, Docker, Azure, and Kubernetes.  
 🛠️ Building my own portfolio website using Next.js.  
