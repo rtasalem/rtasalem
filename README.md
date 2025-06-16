@@ -2,7 +2,7 @@
 🥞 Full-stack software developer interested in server side development, web development, self-hosting/homelabbing, DevOps, and open-source projects.  
 👩🏽‍💻 IT Consultant at [FDM Group](https://www.fdmgroup.com/) & Software Developer at [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs).  
 🧠 Current tech stack: Node.js, PostgreSQL, GraphQL, Docker, Azure, and Kubernetes.  
-🛠️ Building my own portfolio website using Next.js.  
+🛠️ Currently building my own portfolio website using Next.js & DaisyUI.  
 ### Get In Touch
 💬 If you want to get in touch feel free to connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
 ## GitHub Stats
