@@ -3,8 +3,6 @@
 🥞 Full-stack software developer interested in server side development, web development, design, DevOps, and open-source projects.  
 👩🏽‍💻 IT consultant at [FDM Group](https://www.fdmgroup.com/) & software developer at [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs).  
 🌐 Blogs about tech, software development, and the junior developer experience ([should you ever need something to read](https://www.ranasalem.io/blog)).  
-### Get In Touch
-💬 If you want to get in touch feel free to connect on [LinkedIn](https://www.linkedin.com/in/ranatasalem/).
 ## GitHub Stats
 <a href="https://github.com/rtasalem?tab=repositories">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=holi&layout=compact" />
