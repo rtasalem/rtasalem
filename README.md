@@ -1,3 +1,4 @@
+[<img width="1920" height="422" alt="github-readme-cover" src="https://github.com/user-attachments/assets/3ecaa009-6571-4b9f-8f74-a6a23047b97c" />](https://www.ranasalem.io)<br>
 ## About Me
 🥞 Full-stack software developer interested in server side development, web development, DevOps, and open-source projects.  
 👩🏽‍💻 IT consultant at [FDM Group](https://www.fdmgroup.com/) & software developer at [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs).  
