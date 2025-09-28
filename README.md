@@ -13,9 +13,9 @@
 
 ## Tech Stack
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,nodejs,express,npm,jest,react,bootstrap,bulma,nunjucks,java,maven,graphql,postgres,azure,docker,vscode,github,git,postman&perline=10)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,nodejs,express,npm,jest,react,tailwind,vercel,nextjs,bootstrap,bulma,daisyui,nunjucks,java,maven,graphql,postgres,azure,docker,vscode,github,git,postman&perline=10)
 ## Stuff I'm Learning
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,hyprland,vim,helm,k8s,threejs,ts,nextjs,vercel,tailwind,daisyui&perline=10)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,hyprland,vim,helm,k8s,threejs,framer&perline=10)
 
 ## Certifications
 <img src="https://github.com/rtasalem/rtasalem/assets/127218837/7ee0ce69-650e-4663-8864-25e2a2adabe0" alt="Software Development Foundation" style="width: auto; height: 110px;">
