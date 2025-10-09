@@ -4,7 +4,7 @@
 👩🏽‍💻 IT consultant at [FDM Group](https://www.fdmgroup.com/) & software developer at [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs).  
 🌐 Blogs about tech, software development, and the junior developer experience ([should you ever need something to read](https://www.ranasalem.io/blog)).  
 ## Open Source Contributions
-| Repository | Description | Summary | Contributions |
+| Repository | Project description | Summary of work completed | Contributions |
 |------------|-------------|---------|---------------|
 | Skill Icons ([skill-icons](https://github.com/LelouchFR/skill-icons)) | Popular fork of the official [skill-icons](https://github.com/tandpfun/skill-icons) created by [LelouchFR](https://github.com/LelouchFR) to expand on the original icon set. | Use of Figma to create and add light mode, dark mode, and system mode icons to fulfill issues/icon requests opened by users. | [#398](https://github.com/LelouchFR/skill-icons/pull/398), [#401](https://github.com/LelouchFR/skill-icons/pull/401), [#416](https://github.com/LelouchFR/skill-icons/pull/416), [#420](https://github.com/LelouchFR/skill-icons/pull/420) |
 Hyprland Wiki ([hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)) | Official Hyprland wiki that provides detailed documentation on getting started with and using the Hyprland ecosystem. | Proposed updates to the wiki on compatibility of ly as a login manager. | [#1134](https://github.com/hyprwm/hyprland-wiki/pull/1134) |
