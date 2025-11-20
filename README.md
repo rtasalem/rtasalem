@@ -19,9 +19,6 @@ Hyprland Wiki ([hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)) | Offic
 ## Tech Stack
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,nodejs,express,npm,jest,react,tailwind,vercel,nextjs,bootstrap,bulma,daisyui,nunjucks,java,maven,graphql,postgres,azure,docker,vscode,github,git,postman&perline=10)
 
-## Design
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,framer,canva&perline=10)
-
 ## Stuff I'm Learning
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,hyprland,python,vim,helm,k8s,threejs&perline=10)
 
