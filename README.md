@@ -2,7 +2,7 @@
 ## About Me
 🥞 Full-stack software developer interested in server side development, web development, design, DevOps, and open-source projects.  
 👩🏽‍💻 IT consultant at [FDM Group](https://www.fdmgroup.com/) & software developer at [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs).  
-🌐 Blogs about tech, software development, and the junior developer experience ([should you ever need something to read](https://www.ranasalem.io/blog)).  
+🌐 Occasionally blogs about tech ([should you ever need something to read](https://www.ranasalem.io/blog)).  
 ## Open Source Contributions
 | Repository | Project description | Summary of work completed | Pull requests |
 |------------|-------------|---------|---------------|
@@ -23,7 +23,7 @@ Hyprland Wiki ([hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)) | Offic
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,framer,canva&perline=10)
 
 ## Stuff I'm Learning
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,hyprland,vim,helm,k8s,threejs&perline=10)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,hyprland,python,vim,helm,k8s,threejs&perline=10)
 
 ## Certifications
 <img src="https://github.com/rtasalem/rtasalem/assets/127218837/7ee0ce69-650e-4663-8864-25e2a2adabe0" alt="Software Development Foundation" style="width: auto; height: 110px;">
