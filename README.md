@@ -12,9 +12,6 @@ Hyprland Wiki ([hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)) | Offic
 <a href="https://github.com/rtasalem?tab=repositories">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=holi&layout=compact" />
 </a>
-<a href="https://github.com/rtasalem">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=rtasalem&show_icons=true&theme=holi&layout=compact&show=reviews,prs_merged&hide=issues" />
-</a>
 
 ## Tech Stack
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,nodejs,express,npm,jest,react,tailwind,vercel,nextjs,bootstrap,bulma,daisyui,nunjucks,java,maven,graphql,postgres,azure,docker,vscode,github,git,postman&perline=10)
