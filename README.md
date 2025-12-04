@@ -13,15 +13,6 @@
 | Skill Icons ([skill-icons](https://github.com/LelouchFR/skill-icons)) | Popular fork of the official [skill-icons](https://github.com/tandpfun/skill-icons) created by [LelouchFR](https://github.com/LelouchFR) to expand on the original icon set. | Use of Figma to create and add light mode, dark mode, and system mode icons to fulfill issues/icon requests opened by users. | [#398](https://github.com/LelouchFR/skill-icons/pull/398), [#401](https://github.com/LelouchFR/skill-icons/pull/401), [#416](https://github.com/LelouchFR/skill-icons/pull/416), [#420](https://github.com/LelouchFR/skill-icons/pull/420) |
 Hyprland Wiki ([hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)) | Official Hyprland wiki that provides detailed documentation on getting started with and using the Hyprland ecosystem. | Proposed updates to the wiki on compatibility of ly as a login manager. | [#1134](https://github.com/hyprwm/hyprland-wiki/pull/1134) |
 
-## GitHub Stats
-
-<a href="https://github.com/rtasalem?tab=repositories">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=holi&layout=compact" />
-</a>
-<a href="https://github.com/rtasalem">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=rtasalem&show_icons=true&theme=holi&layout=compact&show=reviews,prs_merged&hide=issues" />
-</a>
-
 ## Tech Stack
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,nodejs,express,npm,jest,react,tailwind,vercel,nextjs,bootstrap,bulma,daisyui,nunjucks,java,maven,graphql,postgres,azure,docker,vscode,github,git,postman&perline=10)
