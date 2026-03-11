@@ -3,7 +3,7 @@
 ## About Me
 
 🥞 Full-stack software developer interested in server side development, web development, design, DevOps, self-hosting/homelabbing, and open-source projects.  
-👩🏽‍💻 IT consultant at [FDM Group](https://www.fdmgroup.com/) & software developer at [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs).  
+👩🏽‍💻 Software developer at [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs).  
 🌐 Occasionally blogs about tech ([should you ever need something to read](https://www.ranasalem.io/blog)).  
 
 ## Open Source Contributions
