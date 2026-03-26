@@ -15,7 +15,36 @@ Hyprland Wiki ([hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)) | Offic
 
 ## Tech Stack
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,nodejs,express,npm,jest,react,tailwind,vercel,nextjs,bootstrap,bulma,daisyui,nunjucks,java,maven,graphql,postgres,azure,docker,vscode,github,git,postman&perline=10)
+### Programming
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,java&perline=5)
+
+#### Package managers
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=npm,maven&perline=5)
+
+### Frameworks & Libraries
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,npm,react,tailwind,nextjs,bootstrap,bulma,daisyui,nunjucks,graphql&perline=5)
+
+### Databases
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mongo&perline=5)
+
+### DevOps & Cloud
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,azure,aws,vercel&perline=5)
+
+### AI
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot&perline=5)
+
+### Testing
+ 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vitest,jest&perline=5)
+
+### Development Tools
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman&perline=5)
 
 ## Stuff I'm Learning
 
