@@ -23,7 +23,7 @@ Hyprland Wiki ([hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)) | Offic
 | **Databases**              | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mongo\&perline=5)                                                                |
 | **DevOps & Cloud**         | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,azure,aws,vercel\&perline=5)                                                       |
 | **AI**                     | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot\&perline=5)                                                              |
-| **Testing**                | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vitest,jest\&perline=5)                                                                   |
+| **Testing**                | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vitest,jest,playwright&perline=5)                                                                   |
 | **Development Tools**      | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman\&perline=5)                                                     |
 
 ## Stuff I'm Learning
