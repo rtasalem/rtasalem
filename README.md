@@ -22,8 +22,9 @@ Hyprland Wiki ([hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)) | Offic
 | **Frameworks & Libraries** | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,react,tailwind,nextjs,bootstrap,bulma,daisyui,nunjucks,graphql\&perline=5) |
 | **Databases**              | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mongo\&perline=5)                                                                |
 | **DevOps & Cloud**         | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,azure,aws,vercel\&perline=5)                                                       |
+| **Testing**                | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vitest,jest,playwright&perline=5)                                                         |
+| Code Quality & Security    | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sonarqube,snyk&perline=5)                                                                 |
 | **AI**                     | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot\&perline=5)                                                              |
-| **Testing**                | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vitest,jest,playwright&perline=5)                                                                   |
 | **Development Tools**      | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman\&perline=5)                                                     |
 
 ## Stuff I'm Learning
