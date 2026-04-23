@@ -15,17 +15,17 @@ Hyprland Wiki ([hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)) | Offic
 
 ## Tech Stack
 
-| Category                   | Skills                                                                                                                                               |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Programming**            | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,java\&perline=5)                                                                    |
-| **Package Managers**       | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=npm,maven\&perline=5)                                                                     |
-| **Frameworks & Libraries** | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,react,tailwind,nextjs,bootstrap,bulma,daisyui,nunjucks,graphql\&perline=5) |
-| **Databases**              | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mongo\&perline=5)                                                                |
-| **DevOps & Cloud**         | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,azure,aws,vercel\&perline=5)                                                       |
-| **Testing**                | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vitest,jest,playwright&perline=5)                                                         |
-| Code Quality & Security    | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sonarqube,snyk&perline=5)                                                                 |
-| **AI**                     | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot\&perline=5)                                                              |
-| **Development Tools**      | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman\&perline=5)                                                     |
+| Category                   | Skills                                                                                                                                               | Summary |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| **Programming**            | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,java\&perline=5)                                                                    | JavaScript, TypeScript, Java |
+| **Package Managers**       | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=npm,maven\&perline=5)                                                                     | NPM, Maven |
+| **Frameworks & Libraries** | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,react,tailwind,nextjs,bootstrap,bulma,daisyui,nunjucks,graphql\&perline=5) | Node.js, Express.js, React, Tailwind CSS, Next.js, Bootstrap, Bulma, DaisyUI, Nunjucks, GraphQL |
+| **Databases**              | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mongo\&perline=5)                                                                | PostgreSQL, MongoDB |
+| **DevOps & Cloud**         | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,azure,aws,vercel\&perline=5)                                                       | Docker, Microsoft Azure, Amazon Web Services (AWS), Vercel |
+| **Testing**                | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vitest,jest,playwright&perline=5)                                                         | Vitest, Jest, Playwright, BrowserStack |
+| Code Quality & Security    | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sonarqube,snyk&perline=5)                                                                 | SonarQube Cloude, Snyk |
+| **AI**                     | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot\&perline=5)                                                              | GitHub Copilot |
+| **Development Tools**      | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman\&perline=5)                                                     | Git, GitHub, VS Code, Postman |
 
 ## Stuff I'm Learning
 
