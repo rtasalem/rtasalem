@@ -1,12 +1,12 @@
 [<img width="1920" height="422" alt="github-readme-cover" src="https://github.com/user-attachments/assets/3ecaa009-6571-4b9f-8f74-a6a23047b97c" />](https://www.ranasalem.io)<br>
 
 ## About Me
-**Hi, I'm Rana! Some things to know about me...**
+**Hi, I'm Rana! A few things about me...**
 
-🥞 I'm a full-stack software developer interested in server side development, web development, design, DevOps, self-hosting/homelabbing, AI, and open-source projects.  
-👩🏽‍💻 I currently work as a software developer at [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs), developing digital services improve the overall usernexperience for farmers.
-🌐 I very occasionally blog about tech on my website ([should you ever need something to read](https://www.ranasalem.io/blog)).  
-🧠 I'm passionate about continuous, life-long learning and make it a priority to work on personal & professional development routinely.
+🥞 A full-stack software developer with particular interests in server-side development, web development, design, DevOps, self-hosting/homelabbing, AI, and open-source projects.  
+👩🏽‍💻 Currently work as a software developer at [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs), developing digital services improve the overall usernexperience for farmers.
+🌐 Very occasionally blog about tech on my website ([should you ever need something to read](https://www.ranasalem.io/blog)).  
+🧠 Passionate about continuous, life-long learning and make it a priority to work on personal & professional development routinely.
 
 ## Get in Touch
 
