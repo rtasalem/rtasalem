@@ -10,8 +10,9 @@
 
 ## Get in Touch
 
-✉️ Email: ranasalem.tech@gmail.com  
-💻 Website: [ranasalem.io](https://ranasalem.io)
+💻 [ranasalem.io](https://ranasalem.io)  
+✉️ [Email](mailto:ranasalem.tech@gmail.com)  
+👤 [LinkedIn](https://www.linkedin.com/in/ranatasalem)
 
 ## Tech Stack
 
