@@ -1,19 +1,21 @@
 [<img width="1920" height="422" alt="github-readme-cover" src="https://github.com/user-attachments/assets/3ecaa009-6571-4b9f-8f74-a6a23047b97c" />](https://www.ranasalem.io)<br>
 
 ## About Me
+**Hi, I'm Rana! Some things to know about me...**
 
-🥞 Full-stack software developer interested in server side development, web development, design, DevOps, self-hosting/homelabbing, and open-source projects.  
-👩🏽‍💻 Software developer at [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs).  
-🌐 Occasionally blogs about tech ([should you ever need something to read](https://www.ranasalem.io/blog)).  
+🥞 I'm a full-stack software developer interested in server side development, web development, design, DevOps, self-hosting/homelabbing, AI, and open-source projects.  
+👩🏽‍💻 I currently work as a software developer at [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs), developing digital services improve the overall usernexperience for farmers.
+🌐 I very occasionally blog about tech on my website ([should you ever need something to read](https://www.ranasalem.io/blog)).  
+🧠 I'm passionate about continuous, life-long learning and make it a priority to work on personal & professional development routinely.
 
-## Open Source Contributions
+## Get in Touch
 
-| Repository | Project description | Summary of work completed | Pull requests |
-|------------|-------------|---------|---------------|
-| Skill Icons ([skill-icons](https://github.com/LelouchFR/skill-icons)) | Popular fork of the official [skill-icons](https://github.com/tandpfun/skill-icons) created by [LelouchFR](https://github.com/LelouchFR) to expand on the original icon set. | Use of Figma to create and add light mode, dark mode, and system mode icons to fulfill issues/icon requests opened by users. | [#398](https://github.com/LelouchFR/skill-icons/pull/398), [#401](https://github.com/LelouchFR/skill-icons/pull/401), [#416](https://github.com/LelouchFR/skill-icons/pull/416), [#420](https://github.com/LelouchFR/skill-icons/pull/420), [#608](https://github.com/LelouchFR/skill-icons/pull/608) |
-Hyprland Wiki ([hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)) | Official Hyprland wiki that provides detailed documentation on getting started with and using the Hyprland ecosystem. | Proposed updates to the wiki on compatibility of ly as a login manager. | [#1134](https://github.com/hyprwm/hyprland-wiki/pull/1134) |
+✉️ Email: ranasalem.tech@gmail.com  
+💻 Website: [ranasalem.io](https://ranasalem.io)
 
 ## Tech Stack
+
+A summary of the tools that I've both used in the past and/or still use currently.
 
 | Category                   | Skills                                                                                                                                               | Summary |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
@@ -29,7 +31,22 @@ Hyprland Wiki ([hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)) | Offic
 
 ## Stuff I'm Learning
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,hyprland,python,vim,helm,k8s,threejs&perline=10)
+| Category | Skills | Summary |
+| -------- | ------ | ------- |
+| **Programming** | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python&perline=5) | Python |
+| **Operating Systems** | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,hyprland&perline=5) | Linux, Arch Linux, Hyprland |
+| **DevOps** | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=k8s,helm&perline=5) | Kubernetes, Helm |
+| **Frameworks & Libraries** | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=threejs&perline=5) | Three.js |
+| **Development Tools** | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vim&perline=5) | Vim | 
+
+## Open Source Contributions
+
+Below is a summary of the contributions I've made to open source projects.
+
+| Repository | Project description | Summary of work completed | Pull requests |
+|------------|-------------|---------|---------------|
+| Skill Icons ([skill-icons](https://github.com/LelouchFR/skill-icons)) | Popular fork of the official [skill-icons](https://github.com/tandpfun/skill-icons) created by [LelouchFR](https://github.com/LelouchFR) to expand on the original icon set. | Use of Figma to create and add light mode, dark mode, and system mode icons to fulfill issues/icon requests opened by users. | [#398](https://github.com/LelouchFR/skill-icons/pull/398), [#401](https://github.com/LelouchFR/skill-icons/pull/401), [#416](https://github.com/LelouchFR/skill-icons/pull/416), [#420](https://github.com/LelouchFR/skill-icons/pull/420), [#608](https://github.com/LelouchFR/skill-icons/pull/608) |
+Hyprland Wiki ([hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)) | Official Hyprland wiki that provides detailed documentation on getting started with and using the Hyprland ecosystem. | Proposed updates to the wiki on compatibility of ly as a login manager. | [#1134](https://github.com/hyprwm/hyprland-wiki/pull/1134) |
 
 ## Certifications
 
