@@ -26,7 +26,7 @@ A summary of the tools that I've both used in the past and/or still use currentl
 | **Databases**              | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mongo\&perline=5)                                                                | PostgreSQL, MongoDB |
 | **DevOps & Cloud**         | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,azure,aws,vercel\&perline=5)                                                       | Docker, Microsoft Azure, Amazon Web Services (AWS), Vercel |
 | **Testing**                | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vitest,jest,playwright&perline=5)                                                         | Vitest, Jest, Playwright, BrowserStack |
-| Code Quality & Security    | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sonarqube,snyk&perline=5)                                                                 | SonarQube Cloud, Snyk |
+| **Code Quality & Security    | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sonarqube,snyk&perline=5)                                                                 | SonarQube Cloud, Snyk** |
 | **AI**                     | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot\&perline=5)                                                              | GitHub Copilot |
 | **Development Tools**      | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman\&perline=5)                                                     | Git, GitHub, VS Code, Postman |
 
