@@ -11,7 +11,7 @@
 ## Get in Touch
 
 💻 [ranasalem.io](https://ranasalem.io)  
-✉️ [Email](mailto:ranasalem.tech@gmail.com)  
+✉️ [Email](mailto:rana@ranasalem.io)  
 👤 [LinkedIn](https://www.linkedin.com/in/ranatasalem)
 
 ## Tech Stack
