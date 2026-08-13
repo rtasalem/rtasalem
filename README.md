@@ -4,41 +4,15 @@
 **Hi, I'm Rana! A few things about me...**
 
 🥞 A full-stack software developer with particular interests in server-side development, web development, design, DevOps, self-hosting/homelabbing, AI, and open-source projects.  
-👩🏽‍💻 Currently work as a software developer at [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs), developing digital services to improve the overall user experience for farmers.  
-🌐 Very occasionally blog about tech on my website ([should you ever need something to read](https://www.ranasalem.io/blog)).  
+👩🏽‍💻 Currently work as a software developer at [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs).
+👩🏽‍💻 Very occasionally blog about tech on my website ([should you ever need something to read](https://www.ranasalem.io/blog)).  
 🧠 Passionate about continuous, life-long learning and make it a priority to work on personal & professional development routinely.
 
 ## Get in Touch
 
-💻 [ranasalem.io](https://ranasalem.io)  
+🌐 [ranasalem.io](https://ranasalem.io)  
 ✉️ [Email](mailto:rana@ranasalem.io)  
 👤 [LinkedIn](https://www.linkedin.com/in/ranatasalem)
-
-## Tech Stack
-
-A summary of the tools that I've both used in the past and/or still use currently.
-
-| Category                   | Skills                                                                                                                                               | Summary |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| **Programming**            | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,java\&perline=5)                                                                    | JavaScript, TypeScript, Java |
-| **Package Managers**       | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=npm,maven\&perline=5)                                                                     | NPM, Maven |
-| **Frameworks & Libraries** | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,react,tailwind,nextjs,bootstrap,bulma,daisyui,nunjucks,graphql\&perline=5) | Node.js, Express.js, React, Tailwind CSS, Next.js, Bootstrap, Bulma, DaisyUI, Nunjucks, GraphQL |
-| **Databases**              | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mongo\&perline=5)                                                                | PostgreSQL, MongoDB |
-| **DevOps & Cloud**         | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,azure,aws,vercel\&perline=5)                                                       | Docker, Microsoft Azure, Amazon Web Services (AWS), Vercel |
-| **Testing**                | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vitest,jest,playwright&perline=5)                                                         | Vitest, Jest, Playwright, BrowserStack |
-| **Code Quality & Security**    | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sonarqube,snyk&perline=5)                                                                 | SonarQube Cloud, Snyk |
-| **AI**                     | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot\&perline=5)                                                              | GitHub Copilot |
-| **Development Tools**      | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman\&perline=5)                                                     | Git, GitHub, VS Code, Postman |
-
-## Stuff I'm Learning
-
-| Category | Skills | Summary |
-| -------- | ------ | ------- |
-| **Programming** | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python&perline=5) | Python |
-| **Operating Systems** | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,hyprland&perline=5) | Linux, Arch Linux, Hyprland |
-| **DevOps** | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=k8s,helm&perline=5) | Kubernetes, Helm |
-| **Frameworks & Libraries** | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=threejs&perline=5) | Three.js |
-| **Development Tools** | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vim&perline=5) | Vim | 
 
 ## Open Source Contributions
 
