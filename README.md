@@ -3,7 +3,7 @@
 ## About Me
 **Hi, I'm Rana! A few things about me...**
 
-🥞 A full-stack software developer with particular interests in server-side development, web development, design, DevOps, self-hosting/homelabbing, AI, and open-source projects.  
+🥞 A full-stack software developer with particular interests in server-side development, web development, design, DevOps, self-hosting/homelabbing, and open-source projects.  
 👩🏽‍💻 Currently work as a software developer at [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs).  
 ✍🏽 Very occasionally blog about tech on my website ([should you ever need something to read](https://www.ranasalem.io/blog)).  
 🧠 Passionate about continuous, life-long learning and make it a priority to work on personal & professional development routinely.
