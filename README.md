@@ -14,6 +14,10 @@
 ✉️ [Email](mailto:rana@ranasalem.io)  
 👤 [LinkedIn](https://www.linkedin.com/in/ranatasalem)
 
+## Stats
+
+[![Rana's GitHub stats](https://github-stats-extended.vercel.app/api?username=rtasalem)](https://github.com/stats-organization/github-stats-extended)
+
 ## Open Source Contributions
 
 Below is a summary of the contributions I've made to open source projects.
