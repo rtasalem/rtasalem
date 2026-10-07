@@ -1,7 +1,7 @@
 [<img width="1920" height="422" alt="github-readme-cover" src="https://github.com/user-attachments/assets/3ecaa009-6571-4b9f-8f74-a6a23047b97c" />](https://www.ranasalem.io)<br>
 
-## About Me
-**Hi, I'm Rana! A few things about me...**
+## About
+**I'm Rana! A few things about me...**
 
 🥞 A full-stack software developer with particular interests in server-side development, web development, design, DevOps, self-hosting/homelabbing, and open-source projects.  
 👩🏽‍💻 Currently work as a software developer at [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs).  
@@ -16,7 +16,19 @@
 
 ## Stats
 
-[![Rana's GitHub stats](https://github-stats-extended.vercel.app/api?username=rtasalem)](https://github.com/stats-organization/github-stats-extended)
+<a href="https://github-stats-extended.vercel.app/api?username=rtasalem&show_icons=true&include_all_commits=true&theme=transparent">
+  <img
+    align="center"
+    src="https://github-stats-extended.vercel.app/api?username=rtasalem&show_icons=true&include_all_commits=true&theme=transparent"
+  />
+</a>
+
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=rtasalem&layout=compact&langs_count=8&hide_values=true&theme=transparent">
+  <img
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=rtasalem&layout=compact&langs_count=8&hide_values=true&theme=transparent"
+  />
+</a>
 
 ## Open Source Contributions
 
