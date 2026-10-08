@@ -8,6 +8,13 @@
 ✍🏽 Very occasionally blog about tech on my website ([should you ever need something to read](https://www.ranasalem.io/blog)).  
 🧠 Passionate about continuous, life-long learning and make it a priority to work on personal & professional development routinely.
 
+<a href="https://www.ranasalem.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rtasalem/rtasalem/main/dark_mode.svg">
+    <img alt="Rana Salem's GitHub Profile README" src="https://raw.githubusercontent.com/rtasalem/rtasalem/main/light_mode.svg">
+  </picture>
+</a>
+
 ## Get in Touch
 
 🌐 [ranasalem.io](https://ranasalem.io)  
