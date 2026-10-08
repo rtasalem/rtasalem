@@ -43,6 +43,9 @@ def simple_request(func_name, query, variables):
     """
     request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables': variables}, headers=HEADERS, timeout=60)
     if request.status_code == 200:
+        # GraphQL reports field-level failures (e.g. missing token permissions) in a 200 response
+        for error in request.json().get('errors') or []:
+            print(f'Warning: {func_name} GraphQL error: {error.get("message")}')
         return request
     raise Exception(func_name, ' has failed with a', request.status_code, request.text, QUERY_COUNT)
 
@@ -61,9 +64,7 @@ def graph_repos_stars(count_type, owner_affiliation, cursor=None):
                     node {
                         ... on Repository {
                             nameWithOwner
-                            stargazers {
-                                totalCount
-                            }
+                            stargazerCount
                         }
                     }
                 }
@@ -78,7 +79,7 @@ def graph_repos_stars(count_type, owner_affiliation, cursor=None):
     repositories = simple_request(graph_repos_stars.__name__, query, variables).json()['data']['user']['repositories']
     if count_type == 'repos':
         return repositories['totalCount']
-    stars = sum(edge['node']['stargazers']['totalCount'] for edge in repositories['edges'] if edge and edge.get('node'))
+    stars = sum(edge['node']['stargazerCount'] for edge in repositories['edges'] if edge and edge.get('node'))
     if repositories['pageInfo']['hasNextPage']:
         stars += graph_repos_stars(count_type, owner_affiliation, repositories['pageInfo']['endCursor'])
     return stars
@@ -278,9 +279,9 @@ def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib
     justify_format(root, 'star_data', star_data, 14)
     justify_format(root, 'commit_data', commit_data, 23)
     justify_format(root, 'follower_data', follower_data, 10)
-    justify_format(root, 'loc_data', loc_data[2], 9)
+    justify_format(root, 'loc_data', loc_data[2], 31 - len(loc_data[0]) - len(loc_data[1]))
     find_and_replace(root, 'loc_add', loc_data[0])
-    justify_format(root, 'loc_del', loc_data[1], 7)
+    find_and_replace(root, 'loc_del', loc_data[1])
     tree.write(filename, encoding='utf-8', xml_declaration=True)
 
 
