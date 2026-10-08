@@ -78,7 +78,7 @@ def graph_repos_stars(count_type, owner_affiliation, cursor=None):
     repositories = simple_request(graph_repos_stars.__name__, query, variables).json()['data']['user']['repositories']
     if count_type == 'repos':
         return repositories['totalCount']
-    stars = sum(node['node']['stargazers']['totalCount'] for node in repositories['edges'])
+    stars = sum(edge['node']['stargazers']['totalCount'] for edge in repositories['edges'] if edge and edge.get('node'))
     if repositories['pageInfo']['hasNextPage']:
         stars += graph_repos_stars(count_type, owner_affiliation, repositories['pageInfo']['endCursor'])
     return stars
@@ -185,7 +185,7 @@ def loc_query(owner_affiliation, comment_size=0, force_cache=False, cursor=None,
     }'''
     variables = {'owner_affiliation': owner_affiliation, 'login': USER_NAME, 'cursor': cursor}
     repositories = simple_request(loc_query.__name__, query, variables).json()['data']['user']['repositories']
-    edges += repositories['edges']
+    edges += [edge for edge in repositories['edges'] if edge and edge.get('node')]
     if repositories['pageInfo']['hasNextPage']:
         return loc_query(owner_affiliation, comment_size, force_cache, repositories['pageInfo']['endCursor'], edges)
     return cache_builder(edges, comment_size, force_cache)
