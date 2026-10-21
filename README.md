@@ -4,4 +4,5 @@
     <img alt="Rana Salem's GitHub Profile README" src="./light_mode.svg">
   </picture>
 </a>
-This README layout is copied from @andrew6rant
+
+This README layout is copied from [@andrew6rant](github.com/andrew6rant).
