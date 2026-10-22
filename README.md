@@ -5,4 +5,4 @@
   </picture>
 </a>
 
-This README layout is copied from [@andrew6rant](github.com/andrew6rant).
+README layout copied from [@andrew6rant](github.com/andrew6rant).
