@@ -4,5 +4,3 @@
     <img alt="Rana Salem's GitHub Profile README" src="./light_mode.svg">
   </picture>
 </a>
-
-README layout copied from [@andrew6rant](github.com/andrew6rant).
